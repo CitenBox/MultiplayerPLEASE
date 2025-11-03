@@ -1,5 +1,5 @@
-####ABOUT
-##NOTE: this isn't anything serious it was a personal project for personal use so there is a lot of jank.
+#### ABOUT
+## NOTE: this isn't anything serious it was a personal project for personal use so there is a lot of jank.
 # Unreal Multiplayer Template
 
 A high-performance Unreal Engine multiplayer template with steam sessions plugin focused on clean networking and extensibility.  
