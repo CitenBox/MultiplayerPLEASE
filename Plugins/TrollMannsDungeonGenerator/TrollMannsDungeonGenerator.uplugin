@@ -1,0 +1,29 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "TrollMannsDungeonGenerator",
+	"Description": "",
+	"Category": "Other",
+	"CreatedBy": "TrollSechsMann",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "TrollMannsDungeonGenerator",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		},
+		{
+			"Name": "TrollMannsDungeonGeneratorTools",
+			"Type": "Editor",
+			"LoadingPhase": "Default"
+		}
+	]
+}
