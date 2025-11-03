@@ -28,7 +28,7 @@ Also includes a simple in-game chat system.
 #### PREREQUISITES
 Unreal Engine 5.4  
 Visual Studio 2022
-#unreal's official guide to properly setup Visual Studio so you get all the c++ tools you need:
+# unreal's official guide to properly setup Visual Studio so you get all the c++ tools you need:
 https://dev.epicgames.com/documentation/en-us/unreal-engine/setting-up-visual-studio-development-environment-for-cplusplus-projects-in-unreal-engine
 
 #### PACKAGING
