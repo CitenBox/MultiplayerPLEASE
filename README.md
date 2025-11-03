@@ -1,6 +1,6 @@
 #### ABOUT
 ## NOTE: this isn't anything serious it was a personal project for personal use so there is a lot of jank.
-# Unreal Multiplayer Template
+# The MultiplayerPLEASE template...
 
 A high-performance Unreal Engine multiplayer template with steam sessions plugin focused on clean networking and extensibility.  
 Includes session management, inventory, chat, and example gameplay systems using PushModel replication.
