@@ -1,6 +1,6 @@
 #### UNRELATED
 There is a cool unfinished plugin i got stashed here called TrollMannsDungeonGenerator, it's a cool concept for a dungeon generator that you can create for it your own custom dungeon rooms with data assets. it uses a simple backtracking maze algorithm to layout the dungeon.
-#### ABOUT
+# ABOUT
 ## NOTE: this isn't anything serious it was a personal project for personal use so there is a lot of jank.
 # The MultiplayerPLEASE template...
 
@@ -25,13 +25,13 @@ Items are defined through data assets specifying class, icon, name, and stack si
 Includes item equipping, example items, a partial gun implementation, and a Garry’s Mod–style physics gun.  
 Also includes a simple in-game chat system.  
 
-#### PREREQUISITES
+# PREREQUISITES
 Unreal Engine 5.4  
 Visual Studio 2022
-# unreal's official guide to properly setup Visual Studio so you get all the c++ tools you need:
+### unreal's official guide to properly setup Visual Studio so you get all the c++ tools you need:
 https://dev.epicgames.com/documentation/en-us/unreal-engine/setting-up-visual-studio-development-environment-for-cplusplus-projects-in-unreal-engine
 
-#### PACKAGING
+# PACKAGING
 When packaging in order for steam sessions to work you need to create a text file called steam_appid.txt and write in it 480.
 the file has to be in the same directory as the executable that is inside the binary folder! not the one that is directly inside the packaged build. 
 
