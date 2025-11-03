@@ -39,6 +39,7 @@ the file has to be in the same directory as the executable that is inside the bi
 <img width="737" height="540" alt="image" src="https://github.com/user-attachments/assets/a863e1ef-52a3-4ac1-93ae-88dfbce4e3e9" />
 <img width="243" height="138" alt="image" src="https://github.com/user-attachments/assets/9958b1e2-af11-4950-8fcc-f560ee0e7666" />
 
-
+#### UNRELATED
+There is a cool unfinished plugin i got stashed here called TrollMannsDungeonGenerator, it's a cool concept for a dungeon generator that you can create for it your own custom dungeon rooms with data assets. it uses a simple backtracking maze algorithm to layout the dungeon.
 
 
