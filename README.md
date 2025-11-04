@@ -24,7 +24,7 @@ Items are defined through data assets specifying class, icon, name, and stack si
 Includes item equipping, example items, a partial gun implementation, and a Garry’s Mod–style physics gun.  
 Also includes a simple in-game chat system.  
 
-# PREREQUISITES
+# REQUIREMENTS
 Unreal Engine 5.4  
 Visual Studio 2022
 ### unreal's official guide to properly setup Visual Studio so you get all the c++ tools you need:
